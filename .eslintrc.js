@@ -22,6 +22,7 @@ module.exports = {
     'arrow-parens': 'off',
     'operator-linebreak': 'off',
     'max-len': 'off',
-    'prefer-const': 'off'
+    'prefer-const': 'off',
+    'no-debugger': 'off'
   }
 };
