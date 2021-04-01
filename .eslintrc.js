@@ -23,6 +23,8 @@ module.exports = {
     'operator-linebreak': 'off',
     'max-len': 'off',
     'prefer-const': 'off',
-    'no-debugger': 'off'
+    'no-debugger': 'off',
+    'quotes': 'off',
+    'no-trailing-spaces': 'off'
   }
 };
