@@ -25,6 +25,7 @@ module.exports = {
     'prefer-const': 'off',
     'no-debugger': 'off',
     'quotes': 'off',
-    'no-trailing-spaces': 'off'
+    'no-trailing-spaces': 'off',
+    'padded-blocks': 'off'
   }
 };
